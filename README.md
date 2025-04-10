@@ -1,3 +1,3 @@
-<h1>Projeto Json Filmes Comédia</h1>
-<h2>Gabriela Heckmann e Henry Morikatsu Hiramatsu</h2>
-<p>Projeto flutter com integração de Api de filmes de comédia</p>
+<h2>Projeto Flutter/Json</h2>
+<p><b>Componentes:</b> Gabriela Heckmann e Henry Morikatsu Hiramatsu</p>
+<p>Projeto Flutter integração com Json com temática de Filmes Comédia</p>
